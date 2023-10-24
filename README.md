@@ -18,7 +18,7 @@ A Veteran in Javascript Ecosystem, a technical lead for scalable and Complex Saa
 ![GitHub followers](https://img.shields.io/github/followers/hirenf14)
 ![GitHub User's stars](https://img.shields.io/github/stars/hirenf14)
 
-[![user:12773077's SO profile](https://stackoverflow-readme-profile.johannchopin.fr/profile/12773077?theme=dark&website=true&location=true)](https://github.com/johannchopin/stackoverflow-readme-profile)
+[![user:12773077's SO profile](https://stackoverflow-readme-profile.johannchopin.fr/profile/12773077?theme=dark&website=true&location=true)](https://stackoverflow.com/users/12773077)
 
 
 ## 🔧 Expertise 💻
